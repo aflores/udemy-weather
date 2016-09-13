@@ -1,4 +1,4 @@
-# %-day weather forecast using ReduxSimpleStarter
+# 5-day weather forecast using ReduxSimpleStarter
 
 This is the final version of the react-redux course by Stephen Grinder
 
