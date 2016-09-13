@@ -9,7 +9,8 @@ export const FETCH_WEATHER = 'FETCH_WEATHER';
 // action creator
 export function fetchWeather(city) {
 
-  const url = `${ROOT_URL}&q=${city},us`;
+  const url = `${ROOT_URL}&q=${city}`;
+  //const url = `${ROOT_URL}&q=${city},us`;
   const request = axios.get(url);  // this will return a promise
 
   return {
