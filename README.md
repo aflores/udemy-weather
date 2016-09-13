@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
+# %-day weather forecast using ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is the final version of the react-redux course by Stephen Grinder
+
+I highly recommend it. Go chek it out at [Udemy](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
 
